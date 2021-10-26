@@ -6,6 +6,6 @@ Unzip img file and store in the same location as the python file
 
 
 Modules required:
-PyQt5
-Matplotlib
+PyQt5,
+Matplotlib,
 NumPy
