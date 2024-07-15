@@ -1,4 +1,4 @@
-# Virtual-Lab
+# Virtual Lab
 Application where a user can simulate three of the A-Level Physics practical tasks
 
 
