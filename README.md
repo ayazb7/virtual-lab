@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center"> A desktop application for students to three of the A-Level Physics practical tasks.
+<p align="center"> A desktop application for students to simulate three of the A-Level Physics practical tasks.
 </p>
 
 ## 📝 Table of Contents
