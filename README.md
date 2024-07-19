@@ -13,11 +13,22 @@
 ## 📝 Table of Contents
 
 - [📝 Table of Contents](#-table-of-contents)
+- [💡 Idea ](#-idea-)
 - [🏁 Getting Started](#-getting-started-)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [🎈 Usage](#-usage-)
 - [⛏️ Built With](#️-built-with-)
+
+## 💡 Idea <a name = "idea"></a>
+
+- Students often struggle with completing the practical tasks, due to difficulty of understanding and setting up the experiments.
+- During development of this project, COVID restrictions meant students could not attent school to attempts the practicals.
+- This application includes two major features:
+  - Example animations for each practical, detailing the setup required and measurements to take
+  - DIY feature for each practical to allow students to attempt the experiement themselves
+- The main aim is to provide a platform for students to learn and attempt the practicals at home
+- This project was done as part of the A-Level Computer Science NEA coursework 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
