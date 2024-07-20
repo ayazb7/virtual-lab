@@ -23,7 +23,7 @@
 ## 💡 Idea <a name = "idea"></a>
 
 - Students often struggle with completing the practical tasks, due to difficulty of understanding and setting up the experiments.
-- During development of this project, COVID restrictions meant students could not attent school to attempts the practicals.
+- During development of this project, COVID restrictions meant students could not attend school to attempt the practicals.
 - This application includes two major features:
   - Example animations for each practical, detailing the setup required and measurements to take
   - DIY feature for each practical to allow students to attempt the experiement themselves
